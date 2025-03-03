@@ -1,4 +1,4 @@
-### EDM-Projects-JHON-
+### EDM-Projects-Jhon-
 This is my Repo
 ### About Me
 Hi my name is Jhon Meneses, chill,likes gaming,reading,watching
