@@ -9,4 +9,4 @@ Hi my name is Jhon Meneses, chill,likes gaming,reading,watching
 - 
 ### My Projects
 - Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](pic3-2.JPG)
-- Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterm%20Task%201/PNG.png)
+- Midterm Lab Task 2:[Data Cleaning and Preparation using Excel](Midterm%20Task%201/PNG.png)
