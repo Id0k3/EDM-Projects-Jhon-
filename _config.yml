@@ -1,4 +1,3 @@
 title:Jhon
-logo : 201309672,jpg
 show_downloads: true
-plugins: jekyll-theme-slate
+plugins: jekyll-theme-minimal
