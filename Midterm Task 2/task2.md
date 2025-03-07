@@ -1,5 +1,4 @@
 # Midterm Lab Task 2 - Data Cleaning and Transformation using POWER QUERY
-
 let
     Source = Csv.Document(File.Contents("C:\Users\PC\Downloads\Uncleaned_DS_jobs.csv"),[Delimiter=",", Columns=15, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
     #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
@@ -35,6 +34,7 @@ else [Location]),
     #"Replaced Value2" = Table.ReplaceValue(#"Changed Type5","-1","0",Replacer.ReplaceText,{"Revenue"}),
     #"Replaced Value3" = Table.ReplaceValue(#"Replaced Value2","-1","Other",Replacer.ReplaceText,{"Industry"}),
     #"Split Column by Delimiter2" = Table.SplitColumn(#"Replaced Value3", "Company Name", Splitter.SplitTextByDelimiter("#(lf)", QuoteStyle.Csv), {"Company Name.1", "Company Name.2"}),
-    #"Changed Type6" = Table.TransformColumnTypes(#"Split Column by Delimiter2",{{"Company Name.1", type text}, {"Company Name.2", type number}})
+    #"Changed Type6" = Table.TransformColumnTypes(#"Split Column by Delimiter2",{{"Company Name.1", type text}, {"Company Name.2", type number}}),
+    #"Removed Columns" = Table.RemoveColumns(#"Changed Type6",{"Company Name.2"})
 in
-    #"Changed Type6"
+    #"Removed Columns"
