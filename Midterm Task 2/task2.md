@@ -1,4 +1,4 @@
-#Midterm Lab Task 2 - Data Cleaning and Transformation using POWER QUERY
+# Midterm Lab Task 2 - Data Cleaning and Transformation using POWER QUERY
 
 let
     Source = Csv.Document(File.Contents("C:\Users\PC\Downloads\Uncleaned_DS_jobs.csv"),[Delimiter=",", Columns=15, Encoding=65001, QuoteStyle=QuoteStyle.Csv]),
