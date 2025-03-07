@@ -22,7 +22,7 @@
 - Dependencies View: Check query relationships using Query Dependencies.
 
 # 3. Here's the screenshot of my output before I started data cleaning
-![screenshot](images/PNG2.png)
+![screenshot](../Midterm%20Task%202/PNG2.png)
 
 # 4. Here's the screenshot of my output after I started data cleaning
-<img src="Midterm%20Task%201/images/PNG1.png" alt="Alt Text" width="1000" height="1000">
+<img src="../Midterm%20Task%201/images/PNG1.png" alt="Alt Text" width="1000" height="1000">
