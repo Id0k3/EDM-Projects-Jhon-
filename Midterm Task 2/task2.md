@@ -33,6 +33,8 @@ else [Location]),
     #"Replaced Value1" = Table.ReplaceValue(#"Changed Type4","-1","N/A",Replacer.ReplaceText,{"Competitors"}),
     #"Changed Type5" = Table.TransformColumnTypes(#"Replaced Value1",{{"Revenue", type text}}),
     #"Replaced Value2" = Table.ReplaceValue(#"Changed Type5","-1","0",Replacer.ReplaceText,{"Revenue"}),
-    #"Replaced Value3" = Table.ReplaceValue(#"Replaced Value2","-1","Other",Replacer.ReplaceText,{"Industry"})
+    #"Replaced Value3" = Table.ReplaceValue(#"Replaced Value2","-1","Other",Replacer.ReplaceText,{"Industry"}),
+    #"Split Column by Delimiter2" = Table.SplitColumn(#"Replaced Value3", "Company Name", Splitter.SplitTextByDelimiter("#(lf)", QuoteStyle.Csv), {"Company Name.1", "Company Name.2"}),
+    #"Changed Type6" = Table.TransformColumnTypes(#"Split Column by Delimiter2",{{"Company Name.1", type text}, {"Company Name.2", type number}})
 in
-    #"Replaced Value3"
+    #"Changed Type6"
