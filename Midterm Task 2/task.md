@@ -23,4 +23,4 @@
 ![screenshot](../Midterm%20Task%202/PNG2.png)
 
 # 4. Here's the screenshot of my output after I started data cleaning
-<img src="../Midterm%20Task%201/images/PNG1.png" alt="Alt Text" width="1000" height="1000">
+![screenshot](Midterm%20Task%202/images/PP1.png)
