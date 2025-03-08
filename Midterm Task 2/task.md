@@ -20,7 +20,7 @@
 - Verify Data Integrity – Ensure all transformations are correctly applied and linked.
 
 # 3. Here's the screenshot of my output before I started data cleaning
-![screenshot](Midterm%20Task%202/images/PNG2.png)
+![screenshot](images/PNG2.png)
 
 # 4. Here's the screenshot of my output after I started data cleaning
 ![screenshot](https://github.com/Id0k3/EDM-Projects-Jhon-/raw/main/Midterm%20Task%202/images/PP1.png)
