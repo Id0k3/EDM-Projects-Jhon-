@@ -1,25 +1,23 @@
-# Data Cleaning and Transformation Report
+# Data Cleaning and Transformation Using Power Query Editor
 
-# 1.Task Description The task involves cleaning and transforming a dataset using Power Query Editor.
-- The expected tasks include removing unnecessary characters, splitting columns, creating custom columns, handling missing or negative values, and grouping data.
-- The final goal is to reshape the dataset and generate summary tables for salary by role type, company size, and state.
+# Task Description
 
-  # 2. Steps Performed in Data Cleaning and Transformation
-- Load Dataset: Import CSV file into Power Query Editor.
-- Duplicate Data: Create a duplicate query to preserve raw data.
-- Salary Estimate Column Cleaning: Extract text before the delimiter (.
-- Create Min Sal and Max Sal Columns: Use column from examples to extract minimum and maximum salary.
-- Role Type Column: Add a custom column to categorize job titles into predefined groups.
-- Location Correction: Create a custom column to standardize location data, then split by delimiter.
-- Company Size Columns: Split company size column and remove text Employees.
-- Handle Negative Values: Replace -1 with N/A or 0 in relevant columns.
-- Clean Company Name: Remove unwanted characters or rates.
-- Remove Descriptions: Delete unnecessary description columns.
-- Reshape Data – Salary by Role Type: Duplicate query, select relevant columns, convert data types, multiply by 1000, and group by role type to calculate averages.
-- Reshape Data – Salary by Role Size: Create reference query, select columns, convert data types, and group by size.
-- State Mapping: Merge dataset with state mapping file, replace nulls, and rename columns.
-- Reshape Data – Salary by State: Create reference query, select columns, convert data types, and group by state.
-- Dependencies View: Check query relationships using Query Dependencies.
+- The objective is to clean and transform the "Uncleaned_DS_jobs.csv" dataset using Power Query in Excel. This process ensures the dataset is structured, accurate, and ready for analysis. Key tasks include removing unnecessary characters, extracting and categorizing relevant data, handling missing values, and grouping salary information based on role type, company size, and location.
+- Steps Performed in Data Cleaning and Transformation
+- Load Data into Power Query – Import the dataset for cleaning and transformation.
+- Duplicate Raw Data – Create a copy to maintain an unaltered reference.
+- Clean Salary Estimate Column – Remove extra characters to extract only salary values.
+- Extract Min and Max Salary – Create separate columns for minimum and maximum salary figures.
+- Categorize Job Roles – Add a new column to classify job titles into predefined categories.
+- Standardize Location Data – Split and correct location values to ensure consistency.
+- Handle Invalid Values – Remove or replace placeholders such as -1 or 0 in relevant columns.
+- Refine Company Names – Eliminate extra text like ratings from company names.
+- Remove Unnecessary Columns – Drop redundant data that does not contribute to analysis.
+- Group by Role Type – Aggregate salary data to analyze trends for different job roles.
+- Group by Company Size – Summarize salary trends based on company size.
+- Merge State Data – Integrate location details with a state mapping file for consistency.
+- Group by State – Compute salary trends based on geographical location.
+- Verify Data Integrity – Ensure all transformations are correctly applied and linked.
 
 # 3. Here's the screenshot of my output before I started data cleaning
 ![screenshot](../Midterm%20Task%202/PNG2.png)
