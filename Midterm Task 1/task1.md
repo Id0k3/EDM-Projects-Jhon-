@@ -20,4 +20,4 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 ![screenshot](images/one.JPG)
 
 # STEP 4 Here's the screenshot of my output after I started data cleaning
-<img src="images/one.JPG" alt="Alt Text" width="1000" height="1000">
+<img src="images/PN.png" alt="Alt Text" width="1000" height="1000">
