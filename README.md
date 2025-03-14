@@ -6,7 +6,6 @@ Hi my name is Jhon Meneses, chill,likes gaming,reading,watching
 - College: City College of Angeles (BSIS)
 - High School: Francisco G Nepomuceno Memorial High School
 - Elementary: Jose P Dizon
-- 
 ### My Projects
 - Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterm%20Task%201/images/one.JPG)
 - Midterm Lab Task 2:[Data Cleaning and Preparation using Excel](Midterm%20Task%202/images/PNG2.png)
