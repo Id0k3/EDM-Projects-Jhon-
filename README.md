@@ -11,4 +11,4 @@ Hi my name is Jhon Meneses, chill,likes gaming,reading,watching
 - Midterm Lab Task 2:[Data Cleaning and Preparation using Excel](Midterm%20Task%202/images/PNG2.png)
 - Midterm Lab Task 3:[Data Cleaning and Preparation using Excel](Midterm%20Task%203/images/PT.png)
 - Final Lab Task 1:[Creating Relationship Data using MySQL](Finals%20Task%201/Images/SC.jpeg)
-- Final Lab Task 2:[Creating Relationship Data using MySQL](Final&20Task%202/image/Sc.png)
+- Final Lab Task 2:[Creating Relationship Data using MySQL](Final%20Task%202/image/Sc.png)
