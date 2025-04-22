@@ -56,3 +56,5 @@ UNLOCK TABLES;
 ### SQL TABLES
 
 ![screenshot](image/HA.png)
+![screenshot](image/HE.png)
+![screenshot](image/HO.png)
