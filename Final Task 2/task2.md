@@ -1,4 +1,4 @@
-#Finals Task 2. Transforming ER into Relational Tables
+# Finals Task 2. Transforming ER into Relational Tables
 
 -- Task 1: Create the student table
 create database students_db;
