@@ -7,8 +7,8 @@ Hi my name is Jhon Meneses, chill,likes gaming,reading,watching
 - High School: Francisco G Nepomuceno Memorial High School
 - Elementary: Jose P Dizon
 ### My Projects
-- Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterm%20Task%201/images/one.JPG)-[Steps in Data Cleaning and Preparation using Excel](Midterm%20Task%201/task1.md)
-- Midterm Lab Task 2:[Data Cleaning and Preparation using Excel](Midterm%20Task%202/images/PNG2.png)-[Steps in Data Cleaning and Preparation using Excel](Midterm%20Task%202)
+- Midterm Lab Task 1:[Data Cleaning and Preparation using Excel](Midterm%20Task%201/images/one.JPG)-[Steps in Data Cleaning and Preparation using Excel](Midterm%20Task%201/task1.md)%20
+- Midterm Lab Task 2:[Data Cleaning and Preparation using Excel](Midterm%20Task%202/images/PNG2.png)-[Steps in Data Cleaning and Preparation using Excel](Midterm%20Task%202/task2.md)
 - Midterm Lab Task 3:[Data Cleaning and Preparation using Excel](Midterm%20Task%203/images/PT.png)-[Steps in Data Cleaning and Preparation using Excel](Midterm%20Task%203)
 - Final Lab Task 1:[Creating An ERD Diagiram using MySQL](Finals%20Task%201/Images/SC.jpeg)-[Steps in Creating An ERD Diagiram using MySQL](Finals%20Task%201)
 - Final Lab Task 2:[Creating An ERD Diagiram using MySQL](Final%20Task%202/image/Sc.png)-[Steps in Creating An ERD Diagiram using MySQL](Final%20Task%202)
