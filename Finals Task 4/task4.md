@@ -122,6 +122,5 @@ UNLOCK TABLES;
 ![screenshot](image/KA.jpg)
 ![screenshot](image/KE.jpg)
 ![screenshot](image/KI.jpg)
-![screenshot](image/KA.jpg)
 ![screenshot](image/KO.jpg)
 ![screenshot](image/KU.png)
