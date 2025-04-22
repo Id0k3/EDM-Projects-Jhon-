@@ -1,4 +1,4 @@
-#Finals Task 3. Table Manipulation
+# Finals Task 3. Table Manipulation
 -- MySQL dump 10.13  Distrib 8.0.41, for Win64 (x86_64)
 --
 -- Host: 127.0.0.1    Database: products_db
@@ -53,6 +53,6 @@ UNLOCK TABLES;
 
 -- Dump completed on 2025-04-21 20:42:28
 
-###SQL TABLES
+### SQL TABLES
 
 ![screenshot](image/HA.png)
