@@ -223,3 +223,4 @@ UNLOCK TABLES;
 
 -- Dump completed on 2025-05-10 12:24:01
 
+Finals Task 5/image/HAKDOG.png
