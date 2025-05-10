@@ -14,4 +14,4 @@ Hi my name is Jhon Meneses, chill,likes gaming,reading,watching
 - Final Lab Task 2:[Creating An ERD Diagiram using MySQL](Finals%20Task%202/image/Sc.png)-[FINALS](Finals%20Task%202/task2.md)
 - Final Lab Task 3:[Creating An ERD Diagiram using MySQL](Finals%20Task%203/image/HO.png)-[FINALS](Finals%20Task%203)
 - Final Lab Task 4:[Creating An ERD Diagiram using MySQL](Finals%20Task%204/image/JO.png)-[FINALS](Finals%20Task%204)
-- Final Lab Task 5:[Creating An ERD Diagiram using MySQL](Finals%20Task%205/image/HAKDOG.png)-[FINALS](Finals%20Task%205/)
+- Final Lab Task 5:[Creating An ERD Diagiram using MySQL](Finals%20Task%205/image/HAKDOG.png)-[FINALS](https://github.com/Id0k3/EDM-Projects-Jhon-/tree/main/Finals%20Task%205)
